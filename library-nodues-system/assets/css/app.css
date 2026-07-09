@@ -1,0 +1,7 @@
+body { background:#f5f6f8; }
+.card { border:none; box-shadow:0 1px 3px rgba(0,0,0,.08); }
+.stat-card { border-radius:.75rem; }
+.stat-card .stat-number { font-size:2rem; font-weight:700; }
+.table thead th { background:#eef1f5; border-bottom:2px solid #dde2e8; }
+.workflow-step { padding:.35rem .75rem; border-radius:999px; font-size:.8rem; }
+.certificate-box { border:6px double #2c3e50; padding:2.5rem; }
